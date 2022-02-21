@@ -10,7 +10,7 @@
 
 ## 🎵
 
-> "My mother said to get things done." _Vin Diesel_
+> "My mother said family." _Vin Diesel_
 
 <div align="center">
   <a href="https://github.com/Pablo-Jean">
